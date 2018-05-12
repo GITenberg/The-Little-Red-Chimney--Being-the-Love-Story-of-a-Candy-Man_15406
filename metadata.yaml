@@ -1,0 +1,27 @@
+_repo: The-Little-Red-Chimney--Being-the-Love-Story-of-a-Candy-Man_15406
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leonard, Mary Finley
+    alias: Leonard, Mary F.
+    birthdate: 1862
+    gutenberg_agent_id: '6037'
+    url: http://www.gutenberg.org/2009/agents/6037
+description: ''
+gutenberg_issued: '2005-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- !lcsh 'Love stories'
+title: 'The Little Red Chimney: Being the Love Story of a Candy Man'
+url: http://www.gutenberg.org/ebooks/15406
